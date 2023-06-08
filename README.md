@@ -17,6 +17,8 @@ The purpose of this project was to determine if key attributes in the dataset co
 - statistical modeling
 - writeup/reporting
 
+## Conclusion
+Regression analysis – neural network optimized model included in final notebook has an R-squared value of 0.83, standard deviation of 7.2 and an RMSE of 2.96.  Our group concluded that this model is able to predict obesity reasonably well.   
 
 ## Authors
 
