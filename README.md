@@ -11,6 +11,11 @@ The purpose of this project was to determine if key attributes in the dataset co
 -	matplotlib
 -	st (tensorflow)
 
+## Needs of this project
+- data exploration/descriptive statistics
+- data processing/cleaning
+- statistical modeling
+- writeup/reporting
 
 
 ## Authors
