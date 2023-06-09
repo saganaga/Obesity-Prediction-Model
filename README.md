@@ -3,7 +3,13 @@
 Project Description: The U.S. Department of Health & Human Services dataset for Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System looks at a variety of demographic, physical activity and nutrition risk factors annually.  Of particular interest with the wide breadth of the features was whether a regression model could learn and accurately predict the prevalence of obesity.
 
 ## Visualization of Data
+
 <strong><a href="https://saganaga.github.io/Obesity-Prediction-Model/" target="_blank">Obesity Data Visualization</a></strong>
+
+![Screenshot 2023-06-08 at 7 16 31 PM](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/d06cdb49-5f9d-4332-b705-af2b1be94580)
+![Screenshot 2023-06-08 at 7 17 20 PM](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/b9e96a27-4ba3-4e97-aa14-2dd4a5585856)
+![Screenshot 2023-06-08 at 7 19 32 PM](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/14322fc2-3ea7-4af0-8322-09c948e5f73c)
+![chart-5](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/b5694a79-e209-40b6-8cf0-6cf4d4805270)
 
 ## Technologies
 -	pyspark (SparkFiles)
@@ -24,7 +30,6 @@ The purpose of this project was to determine if key attributes in the dataset co
 Regression analysis – neural network optimized model included in final notebook has an R-squared value of 0.83 and an RMSE of 2.96 with a target y variable standard deviation of 7.2.  Our group concluded that this model is able to predict obesity reasonably well.   
 
 ## Authors
-
 - Audrey Fermanich [@afermanich87](https://www.github.com/afermanich87)
 - Rachel Le Grand [@saganaga](https://github.com/saganaga)
 - John Muir [@OutFrontAnalytics](https://github.com/OutFrontAnalytics)
