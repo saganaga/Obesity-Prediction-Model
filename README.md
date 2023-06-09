@@ -32,8 +32,9 @@ Click on link to interact with graph below.
 ![Screenshot 2023-06-08 at 8 35 28 PM](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/59e43a49-8cb8-4bb3-ac11-b53b3c66d4f1)
 
 ## Hypothetical prediction 
-- The model will predict any combination of features and give a percent of adults who have obesity 
-![chart-5](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/0bec3aac-160a-456b-bcb2-9e31e627b0fd)
+The model will predict any combination of features and give a percentage of adults who have obesity. 
+
+<img width="481" alt="Screenshot 2023-06-08 212357" src="https://github.com/saganaga/Obesity-Prediction-Model/assets/120151717/129b3e7a-fff4-4fc6-bbf6-b5bb0d91ed99">
 
 
 ## Authors
