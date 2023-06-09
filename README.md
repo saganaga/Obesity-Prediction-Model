@@ -9,12 +9,12 @@ Preprocessing included: reading CSV file using Spark, filtering and cleaning dat
 ![Screenshot 2023-06-08 at 7 19 32 PM](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/14322fc2-3ea7-4af0-8322-09c948e5f73c)
 
 ## Technologies
--	pyspark (SparkFiles)
+-	PySpark (SparkFiles)
 -	sklearn.model_selection (train_test_split)
 -	sklearn.preprocessing (StandardScaler) 
--	pandas (scipy.stats) 
--	matplotlib
--	st (tensorflow)
+-	Pandas (scipy.stats) 
+-	Matplotlib
+-	TensorFlow
 
 ## Needs of this project
 - data exploration/descriptive statistics
