@@ -3,7 +3,7 @@
 Project Description: The U.S. Department of Health & Human Services dataset for Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System looks at a variety of demographic, physical activity and nutrition risk factors annually.  Of particular interest with the wide breadth of the features was whether a regression model could learn and accurately predict the prevalence of obesity.
 
 ## Preprocessing
-- Preprocessing included: reading CSV file using Spark, filtering and cleaning data, troubleshooting data types & converting to Pandas Data Frame.  Please see below for the transformation and further details in the notebook. 
+Preprocessing included: reading CSV file using Spark, filtering and cleaning data, troubleshooting data types & converting to Pandas Data Frame.  Please see below for the transformation and further details in the notebook. 
 ![Screenshot 2023-06-08 at 7 16 31 PM](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/d06cdb49-5f9d-4332-b705-af2b1be94580)
 ![Screenshot 2023-06-08 at 7 17 20 PM](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/b9e96a27-4ba3-4e97-aa14-2dd4a5585856)
 ![Screenshot 2023-06-08 at 7 19 32 PM](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/14322fc2-3ea7-4af0-8322-09c948e5f73c)
@@ -27,6 +27,7 @@ The purpose of this project was to determine if key attributes in the dataset co
 Regression analysis – neural network optimized model included in final notebook has an R-squared value of 0.83 and an RMSE of 2.96 with a target y variable standard deviation of 7.2.  Our group concluded that this model is able to predict obesity reasonably well.   
 
 ## Visualization of Data
+Click on link to interact with graph below.
 <strong><a href="https://saganaga.github.io/Obesity-Prediction-Model/" target="_blank">Obesity Data Visualization</a></strong>
 ![Screenshot 2023-06-08 at 8 35 28 PM](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/59e43a49-8cb8-4bb3-ac11-b53b3c66d4f1)
 
