@@ -28,6 +28,7 @@ Regression analysis – neural network optimized model included in final noteboo
 
 ## Visualization of Data
 <strong><a href="https://saganaga.github.io/Obesity-Prediction-Model/" target="_blank">Obesity Data Visualization</a></strong>
+![Screenshot 2023-06-08 at 8 35 28 PM](https://github.com/saganaga/Obesity-Prediction-Model/assets/119809729/59e43a49-8cb8-4bb3-ac11-b53b3c66d4f1)
 
 ## Hypothetical prediction 
 - The model will predict any combination of features and give a percent of adults who have obesity 
